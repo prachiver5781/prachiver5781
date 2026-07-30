@@ -8,8 +8,6 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=prachiver5781&label=PROFILE+VIEWS&color=7A5AF8&style=for-the-badge)
-
 </div>
 
 ---
@@ -107,7 +105,7 @@ class Prachi {
 
 <div align="center">
 
-### ⭐ Thanks for visiting my AI Dashboard ⭐
+### ⭐ Thanks for visiting ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7A5AF8&height=120&section=footer"/>
 
