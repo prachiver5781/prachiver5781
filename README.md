@@ -31,7 +31,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,bootstrap,react,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,git,github,vscode"/>
 
 </p>
 
